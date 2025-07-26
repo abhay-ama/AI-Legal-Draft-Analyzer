@@ -1,0 +1,9 @@
+pip install fastapi
+uvicorn
+pdfplumber
+docx2txt
+pytesseract
+pillow
+requests
+python-multipart
+sqlite3
